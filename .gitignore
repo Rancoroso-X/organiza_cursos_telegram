@@ -1,0 +1,19 @@
+# Logs
+movimentos.log
+movimentos.csv
+
+# Vídeos de exemplo
+exemplos/
+*.mp4
+
+# Arquivos temporários ou backups
+*.DS_Store
+*.swp
+*.tmp
+*.bak
+
+# Editor configs
+.vscode/
+.idea/
+__pycache__/
+
