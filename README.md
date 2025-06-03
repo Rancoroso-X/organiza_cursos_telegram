@@ -42,13 +42,14 @@ Mandamento03_Ensinando.mp4
 ---
 
 📦 Resultado
-Organiza em subpastas automaticamente:
 ├── 01/
 │   └── Introdução.mp4
+│   └── (2).mp4
 ├── MÓDULO_2/
 │   └── AULA_1.mp4
 ├── Mandamento03/
-│   └── Ensinando.mp4
+    └── Ensinando.mp4
+
 
 ----
 
@@ -67,7 +68,8 @@ organiza_cursos_telegram/
 ├── organiza_cursos_telegram_v3.2.py
 ├── atalho_OCT_v3.2.sh
 ├── README.md
-└── exemplos/        # (opcional: coloque vídeos de exemplo aqui)
+└── exemplos/  # (opcional: inclua vídeos de exemplo)
+
 
 ----
 
